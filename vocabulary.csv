@@ -1,0 +1,120 @@
+character,pinyin,character_meaning,audio_file_name
+吗,ma,(question particle for Yes/No questions),question_particle_for_yes_no_questions_audio.mp3
+不,bù / bú,not,not_audio.mp3
+呢,ne,(question particle elliptical),question_particle_elliptical_audio.mp3
+好,hǎo,good,good_audio.mp3
+你好,nǐhǎo,hello,hello_audio.mp3
+你,nǐ,you,you_audio.mp3
+贵,guì,honorable expensive,honorable_expensive_audio.mp3
+贵姓,guìxìng,honorable surname,honorable_surname_audio.mp3
+姓,xìng,surname to be surnamed,surname_to_be_surnamed_audio.mp3
+请,qǐng,please,please_audio.mp3
+问,wèn,to ask,to_ask_audio.mp3
+请问,qǐngwèn,may I ask...,may_i_ask_audio.mp3
+我,wǒ,I me,i_me_audio.mp3
+小姐,xiǎojiě,Miss young lady,miss_young_lady_audio.mp3
+先生,xiānsheng,Mr sir husband,mr_sir_husband_audio.mp3
+叫,jiào,to call to be called,to_call_to_be_called_audio.mp3
+什么,shénme,what,what_audio.mp3
+名字,míngzi,name,name_audio.mp3
+老师,lǎoshī,teacher,teacher_audio.mp3
+是,shì,to be,to_be_audio.mp3
+学生,xuésheng,student,student_audio.mp3
+学,xué,to study,to_study_audio.mp3
+也,yě,also too,also_too_audio.mp3
+国,guó,country,country_audio.mp3
+中国,Zhōngguó,China,china_audio.mp3
+美国,Měiguó,America USA,america_usa_audio.mp3
+人,rén,person people,person_people_audio.mp3
+一,yī,one,one_audio.mp3
+二,èr,two,two_audio.mp3
+三,sān,three,three_audio.mp3
+四,sì,four,four_audio.mp3
+五,wǔ,five,five_audio.mp3
+六,liù,six,six_audio.mp3
+七,qī,seven,seven_audio.mp3
+八,bā,eight,eight_audio.mp3
+九,jiǔ,nine,nine_audio.mp3
+十,shí,ten,ten_audio.mp3
+这,zhè,this,this_item.mp3
+那,nà,that,that_item.mp3
+他,tā,he / him,he_him.mp3
+她,tā,she / her,she_her.mp3
+照片,zhàopiàn,photo / picture,photo_picture.mp3
+的,de,possessive particle / 's,possessive_marker.mp3
+爸爸,bàba,dad / father,dad_father.mp3
+妈妈,māma,mom / mother,mom_mother.mp3
+哥哥,gēge,older brother,older_brother.mp3
+弟弟,dìdi,younger brother,younger_brother.mp3
+姐姐,jiějie,older sister,older_sister.mp3
+妹妹,mèimei,younger sister,younger_sister.mp3
+儿子,érzi,son,son_child.mp3
+女儿,nǚ'ér,daughter,daughter_child.mp3
+孩子,háizi,child / kid,child_kid.mp3
+个,ge,measure word (general),measure_word_general.mp3
+口,kǒu,measure word (family members) / mouth,measure_word_family_mouth.mp3
+张,zhāng,measure word (flat objects) / (a surname),measure_word_flat.mp3
+两,liǎng,two (used with measure words),two_pair.mp3
+有,yǒu,to have / there is/are,have_possess.mp3
+谁,shéi,who / whom,who_whom.mp3
+家,jiā,family / home,family_home.mp3
+几,jǐ,how many / a few,how_many_few.mp3
+和,hé,and / with,and_with.mp3
+律师,lǜshī,lawyer,lawyer_attorney.mp3
+大学生,dàxuéshēng,university student / college student,college_student.mp3
+医生,yīshēng,doctor / medical doctor,doctor_physician.mp3
+英文,Yīngwén,English (language),English_language.mp3
+工作,gōngzuò,work / job / to work,work_job.mp3
+做,zuò,to do / to make,do_make.mp3
+都,dōu,all / both,all_both.mp3
+年,nián,year,year_annual.mp3
+今年,jīnnián,this year,this_year.mp3
+明年,míngnián,next year,next_year.mp3
+月,yuè,month / moon,month_moon.mp3
+日,rì,day / sun,day_sun.mp3
+号,hào,number / date (day of month),number_date.mp3
+今天,jīntiān,today,today_present.mp3
+明天,míngtiān,tomorrow,tomorrow_future.mp3
+生日,shēngrì,birthday,birthday_celebration.mp3
+星期,xīngqī,week,week_period.mp3
+有事,yǒushì,to have things to do / to be busy,busy_occupied.mp3
+常常,chángcháng,often / frequently,often_frequently.mp3
+有的,yǒude,some,some_part.mp3
+时候,shíhou,time / moment / (a duration of) time,time_moment.mp3
+打球,dǎ qiú,to play ball (sports),play_ball_sport.mp3
+看,kàn,to see / to look / to watch / to read,see_watch_read.mp3
+电视,diànshì,television / TV,TV_television.mp3
+电影,diànyǐng,movie / film,movie_film.mp3
+书,shū,book,book_reading.mp3
+现在,xiànzài,now / at present,now_presently.mp3
+点,diǎn,o'clock / dot / point / a little,oclock_point.mp3
+分,fēn,minute / to divide / point (score),minute_divide.mp3
+刻,kè,quarter (of an hour) / to carve,quarter_hour_carve.mp3
+半,bàn,half / semi-,half_semi.mp3
+上午,shàngwǔ,morning (before noon),morning_AM.mp3
+中午,zhōngwǔ,noon / midday,noon_midday.mp3
+下午,xiàwǔ,afternoon,afternoon_PM.mp3
+晚上,wǎnshang,evening / night,evening_night.mp3
+吃,chī,to eat,eat_consume.mp3
+饭,fàn,rice / meal / food,rice_meal_food.mp3
+菜,cài,vegetable / dish (type of food),vegetable_dish.mp3
+喜欢,xǐhuan,to like / to prefer,like_prefer.mp3
+还是,háishi,or (in questions) / still,or_question_still.mp3
+岁,suì,year (of age),age_year.mp3
+多大,duō dà,how old / how big,how_old_big.mp3
+我们,wǒmen,we / us,we_us.mp3
+太,tài,too / excessively / extremely,too_extremely.mp3
+怎么样,zěnmeyàng,how is it? / how about it? / what's up?,how_about_it.mp3
+谢谢,xièxie,thanks / to thank,thanks_grateful.mp3
+可是,kěshì,but / however,but_however.mp3
+见,jiàn,to see / to meet,see_meet.mp3
+再,zài,again / once more,again_once_more.mp3
+很,hěn,very / quite,very_quite.mp3
+忙,máng,busy,busy_occupied_máng_1.mp3
+为什么,wèishénme,why,why_reason.mp3
+因为,yīnwèi,because,because_reason.mp3
+还,hái,still / also / yet / in addition,still_also_yet.mp3
+同学,tóngxué,classmate,classmate_student.mp3
+认识,rènshi,to know (sb) / to recognize / to be acquainted with,know_recognize_acquainted.mp3
+朋友,péngyou,friend,friend_companion.mp3
+了,le,completed action particle / modal particle,action_completed_change_state.mp3
